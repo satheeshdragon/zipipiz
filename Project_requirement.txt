@@ -1,0 +1,18 @@
+Image Fetching Project Function
+
+IM 1
+
+1. image Searching Frontend Html Page.
+2. Codignator Application
+3. Bing Api to Filter Image TYPE A/N
+4. Zip Download
+5. Range Between 1-10 10-50 50-100
+
+IM 2
+
+1. Other Image Search Engine.
+2. HOT or NOT Game
+3. Image Games
+4. Rating Images
+5. Ranking Images
+6. image Big Data
